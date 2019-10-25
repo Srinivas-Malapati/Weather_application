@@ -1,7 +1,7 @@
 from requests_html import HTMLSession
 
 session = HTMLSession()
-
+#this is id for each city.In this case this is refers to mumbai.Each city have a different id 
 city_id = "e1bbaf5ba44a74170e3bb9f892416301c36b3b17f37e1a666c6e1213de0f5668"
 
 
